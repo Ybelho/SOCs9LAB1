@@ -1,0 +1,2 @@
+SOURCE=https://tranco-list.eu/top-1m.csv.zip
+DOWNLOADED_AT=2025-10-02T10:59:24Z
